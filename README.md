@@ -14,11 +14,11 @@ The adopted dataset contains information of 1.3k persons with their personal and
 
 age: Age of primary beneficiary
 sex: Insurance contractor gender (female, male)
-<br/>bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m2) using the ratio of height to weight, ideally 18.5 to 24.9
-<br/>children: Number of children covered by health insurance / Number of dependents
-<br/>smoker: Smoking behavior (no : non-smoker, yes : smoker)
-<br/>region: The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
-<br/>charges: Individual medical costs billed by health insurance
+<br/><br/>bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m2) using the ratio of height to weight, ideally 18.5 to 24.9
+<br/><br/>children: Number of children covered by health insurance / Number of dependents
+<br/><br/>smoker: Smoking behavior (no : non-smoker, yes : smoker)
+<br/><br/>region: The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+<br/><br/>charges: Individual medical costs billed by health insurance
 
 ### Objective:
 1)	Aiding start-up companies to investigate the behaviors of customers and learn the factors affecting the medical cost. Hence, they can set up a better marketing strategy, search for more potential customers and set up their target customers.
