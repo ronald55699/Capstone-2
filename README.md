@@ -14,11 +14,11 @@ The adopted dataset contains information of 1.3k persons with their personal and
 
 age: Age of primary beneficiary
 sex: Insurance contractor gender (female, male)
-bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m2) using the ratio of height to weight, ideally 18.5 to 24.9
-children: Number of children covered by health insurance / Number of dependents
-smoker: Smoking behavior (no : non-smoker, yes : smoker)
-region: The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
-charges: Individual medical costs billed by health insurance
+<br/>bmi: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg / m2) using the ratio of height to weight, ideally 18.5 to 24.9
+<br/>children: Number of children covered by health insurance / Number of dependents
+<br/>smoker: Smoking behavior (no : non-smoker, yes : smoker)
+<br/>region: The beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
+<br/>charges: Individual medical costs billed by health insurance
 
 ### Objective:
 1)	Aiding start-up companies to investigate the behaviors of customers and learn the factors affecting the medical cost. Hence, they can set up a better marketing strategy, search for more potential customers and set up their target customers.
@@ -29,6 +29,6 @@ charges: Individual medical costs billed by health insurance
 
 ### Reports
 1. [Jupyternotebook](https://github.com/ronald55699/Capstone-2/tree/main/Notebooks)
-2. [Capstone Project II Final Report](https://github.com/ronald55699/Capstone-2/blob/main/Report/Capstone%202%20Report.pdf) : 
+2. [Capstone Project II Final Report](https://github.com/ronald55699/Capstone-2/blob/main/Report/Capstone%202%20Report.pdf) 
 3. [Capstone Project II Final Presentation](https://github.com/ronald55699/Capstone-2/blob/main/Report/Capstone%202%20Presentation.pdf)
 
