@@ -1,6 +1,6 @@
 # Capstone 2 - Predicting individual annual cost of medical insurance by ML method
 Lok Hang Ronald,Wong 
-Springboard Data Science Career Track, Dec 2020 cohort
+<br/>Springboard Data Science Career Track, Dec 2020 cohort
 
 ### Problem Statement: 
 What are the underlying factors affecting one medical insurance cost? Can start-up companies predict the medical insurance cost and provide consulting service to their customers?
